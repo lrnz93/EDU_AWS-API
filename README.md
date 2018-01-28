@@ -1,2 +1,2 @@
 # Innovation2018
-Simple AWS API
+Simple AWS API voor het vak Innovation 2018
