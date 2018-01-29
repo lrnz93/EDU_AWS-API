@@ -34,5 +34,6 @@ try:
 except ClientError as e:
     if e.response['Error']['Code'] == '404':
         print ('file not found')
+
     else:
         print(e.response)
