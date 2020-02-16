@@ -3,8 +3,8 @@ from botocore.exceptions import ClientError
 
 
 #keys
-key = "AKIAINULDQ6YLRMDZ5GQ"
-secret = "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"
+key = ""
+secret = ""
 
 #user input
 try:
