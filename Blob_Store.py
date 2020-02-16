@@ -3,8 +3,8 @@ import boto3
 import uuid
 
 # set key variables
-key = "AKIAINULDQ6YLRMDZ5GQ"
-secret = "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"
+key = ""
+secret = ""
 
 try:
     filename = input("Enter file with extention: ")
